@@ -1,0 +1,96 @@
+html {
+height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 30px 200px ;
+    background-image: url("img/213145202.png");
+    background-repeat: repeat-x repeat-y;
+}
+
+#mapDiv {
+    height: 200px;
+    clear: both;
+}
+
+h1{
+    font-size: 250%;
+}
+
+img{
+    float: right;
+    border: none;
+}
+
+.new {
+    font-style: italic;
+    text-align: left;
+    text-align: justify;
+}
+
+#wrapper {
+    background-color: #DDA0DD;
+}
+
+#header {
+    margin:40px 32px 15px 32px;
+    padding: 15px 32px;
+}
+
+#sidebar {
+    margin: 50px 5px 50px 15px;
+    float: left;
+
+}
+
+#sidebar button{
+    background-color: #DDA0DB;
+}
+#sidebar p{
+    margin:10px 0px 0px 0px;
+    font-style: italic;
+    text-align: center;
+    tab-size: 18px;
+}
+
+#content {
+    margin:200px 20px 100px 20px;
+}
+
+#footer{
+    background-color: #DDA0DD;
+}
+
+#infoL{
+    height: 20px;
+    width: 291px;
+    float: left;
+    text-align: left;
+    margin-right: 29px;
+
+}
+
+#infoC{
+    height: 20px;
+    width: 300px;
+    float: left;
+    text-align: left;
+    margin-left: 12px;
+
+}
+
+#infoR{
+    height: 20px;
+    width: 300px;
+    float: left;
+    text-align: left;
+    margin-left: 12px;
+
+ }
+
+#formHide{
+    text-decoration: underline;
+    margin-bottom: 10px;
+    cursor: pointer;
+}
